@@ -1,0 +1,2 @@
+print('C:\\users\\Bob\\Desktop\\report.docx\nHere\'s an example of a single quote escape\nThis is an \"escape\" of a double quote\n\"I can\'t wait for dinner\" said tom\nI can\'t believe it!')
+print()
