@@ -1,2 +1,2 @@
 print('Hello\nI am here')
-print('I am testing\nthe new line\nescape sequence')
+print('AHAHAHAHAHHA\nI AM I AM HERE\nok bye')
