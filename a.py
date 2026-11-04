@@ -1,0 +1,6 @@
+print("hello world")
+print ("i am elliot mr robot sigma hacker")
+print('Hello world')
+print('Good morning')
+print('Good evening')
+print('Good night')
